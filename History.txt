@@ -1,0 +1,3 @@
+Version 0.0.1 2010-10-17
+  - Initial release
+  - Rails 2 support
